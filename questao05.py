@@ -46,3 +46,9 @@ estado_lampadas = sala.verificar_lampadas()
 for i, estado in enumerate(estado_lampadas):
     print(f"Lâmpada {i+1}: {estado}")
 
+
+
+#Lâmpada 1: desligada e quente
+#Lâmpada 2: acesa
+#Lâmpada 3: desligada e fria
+
